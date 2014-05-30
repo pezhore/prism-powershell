@@ -13,3 +13,7 @@ This is a first attempt at adding syntax highlighting for a complex language. As
 
 * Nested tokens (e.g. strings containing variables) follow the outermost highlighting rule.
 * May cause weird color selection in non-okaidia Prism themes.
+
+## Misc
+
+More information and examples can be found on my ghost blog post [here](http://blog.briankmarsh.com/prismjs-powershell-syntax-highlighting/).
